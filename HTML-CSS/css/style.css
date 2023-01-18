@@ -1,0 +1,13 @@
+body {
+    background-color: hsla(0, 0%, 100%, 0.75);
+}
+
+main {
+    background-color: hsl(0, 0%, 100%);
+    max-width: 416px;
+    border-radius: 15px;
+    display: block;
+    align-items: center;
+    justify-content: center;
+  margin: auto;
+}
